@@ -28,10 +28,3 @@ This repository is created and maintained by **Anant Handifod (Roll No: 2203043)
 5. **matrix_multiplication.c**  
    Multiplies two 2×2 matrices and displays the result.
 
----
-
-## 🛠️ How to Run the Programs
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnantHandifod/C-Program-Library.git
